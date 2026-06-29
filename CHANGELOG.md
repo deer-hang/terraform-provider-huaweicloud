@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## 1.94.0 (June 12, 2026)
+
+* **New Resource Source:**
+  + `huaweicloud_apig_application_ai_api_key` [GH-9819]
+  + `huaweicloud_das_dead_lock_switch` [GH-9780]
+  + `huaweicloud_das_full_dead_lock_switch` [GH-9786]
+  + `huaweicloud_das_history_transaction_export_task` [GH-9770]
+  + `huaweicloud_das_lock_blocking_switch` [GH-9777]
+  + `huaweicloud_das_search_path_switch` [GH-9845]
+  + `huaweicloud_das_shared_connection` [GH-9795]
+  + `huaweicloud_dds_bind_gateway` [GH-9799]
+
 ## 1.93.0 (June 12, 2026)
 
 * **New Resource Source:**
